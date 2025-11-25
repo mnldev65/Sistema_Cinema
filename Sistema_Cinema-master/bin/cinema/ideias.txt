@@ -1,0 +1,9 @@
+criar um cartaz
+criar metodo de cadrastro de cliente
+
+        if (estoque <= 0) {
+            System.out.println("Sem Cadeiras disponiveis...");
+        } else {
+            this.estoque -= 1;
+            System.out.println("Compra feita com sucesso");
+        }
